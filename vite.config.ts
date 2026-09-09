@@ -7,7 +7,7 @@ import {defineConfig, Plugin} from 'vite';
 // LINT.IfChange(aistudio_media_plugin)
 function aistudioMediaPlugin(): Plugin {
   return {
-    base: '/NS-English-Management/'
+    base: '/NS-English-Management/',
     name: 'vite-plugin-aistudio-media',
     configureServer(server) {
       server.middlewares.use((req, res, next) => {
