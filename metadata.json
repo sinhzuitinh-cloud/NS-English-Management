@@ -1,0 +1,7 @@
+{
+  "name": "NS English - Quản Lý Học Viên",
+  "description": "Hệ thống quản lý học viên, lớp học, điểm danh, học phí và cộng tác viên NS English Academy",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
